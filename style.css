@@ -1,0 +1,100 @@
+body {
+    background-size: cover;
+    background-image: url("violet.jpg");
+    margin: 0;
+    font-family: 'Della Respira', serif;
+}
+   
+ 
+ }
+
+.head{
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+    color:turquoise;
+    font-size: 55px;
+    position: relative;
+    
+    
+ }
+ h1{
+    margin: 0 auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:cyan;
+    font-size: 55px;
+    position: relative;
+    text-align: center;
+   
+ }
+
+.info{
+    margin-left: 15px;
+    margin-top: 10px;
+    color:yellow;
+    font-size:30px;
+font-style: initial;
+}
+.list{
+    margin-left: 5px;
+    font-size: 28px;
+    text-align:left;
+color:red;
+margin-top: 20%;
+}
+
+
+h2{
+    font-size:25px;
+    color:black;
+    font-style: italic;
+}
+.pic{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left:250px;
+   border-radius:120px;
+}
+  
+.pic1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+   border-radius:120px;
+}
+.pic2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left:500px;
+   border-radius:120px;
+}
+.pic3{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left:750px;
+   border-radius:120px;
+}
+
+.middle{
+    color: yellow;
+    text-shadow: black;
+    font-size:25px;
+}
+
+.bottom{
+    font-size:35px;
+    background-color: coral;
+    padding-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+ p{
+     background-color: mintcream;
+     color:rgb(15, 15, 1);
+     font-size:25px;
+     margin-left: 5px;
+     margin-right: 5px;
+ }
